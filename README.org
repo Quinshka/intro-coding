@@ -42,6 +42,10 @@ There will be an info session immediately following the workshop.
 
 + Programming /is/ the act of writing computer code
 + Programming is /about/ building and working with ideas
++ Programming /is/ the act of writing computer code
++ Programming is /about/ building and working with ideas
++ Programming /is/ the act of writing computer code
++ Programming is /about/ building and working with ideas
 
 ** Why JavaScript?
 
